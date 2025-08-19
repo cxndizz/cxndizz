@@ -4,7 +4,7 @@
 
 <img src="https://img5.pic.in.th/file/secure-sv1/XieChuLing--New-photo-16_09_2024-modified.png" width="180" />
 
-## Backend Developer | Next.js • Spring Boot • PostgreSQL • Oracle
+## Full Stack Developer | Next.js • Spring Boot • PostgreSQL • Oracle
 
 <br>
 
