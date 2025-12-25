@@ -8,10 +8,10 @@
 
 <br>
 
-🌱 **Currently exploring:** AI, Tensors, Kubernetes, Hyperledger  
-💬 **Ask me about:** Java, Spring Boot, backend stuff, or anything tech-related  
-💼 **Projects & Experiments:** Building APIs, databases, and full-stack  
-📬 **Let's connect:** [Email me](mailto:khun.chakkri@gmail.com)  
+🌱 **Currently exploring:** AI, Tensors, Kubernetes, Hyperledger  
+💬 **Ask me about:** Java, Spring Boot, backend stuff, or anything tech-related  
+💼 **Projects & Experiments:** Building APIs, databases, and full-stack  
+📬 **Let's connect:** [Email me](mailto:khun.chakkri@gmail.com)  
 ⚡ **Fun fact:** I write bugs faster than I fix them 🐛
 
 <br>
@@ -57,26 +57,40 @@
 ## 🌐 Connect with me
 
 <a href="https://instagram.com/firstisalwayshappy" target="_blank">
-  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin: 5px" />
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin: 5px" />
 </a>
 <a href="https://github.com/cxndizz" target="_blank">
-  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin: 5px" />
+  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin: 5px" />
 </a>
 
 <br>
 
 ## 📊 Github Stats
 
-<p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cxndizz&show_icons=true&count_private=true&hide_border=true&theme=radical" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=cxndizz&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
 
-<p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxndizz&layout=compact&hide_border=true&theme=radical" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=cxndizz&theme=radical&row=2&column=3" alt="GitHub Trophy" />
-</p>
+<a href="https://github.com/cxndizz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cxndizz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cxndizz&theme=radical&hide_border=true"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=cxndizz&&style=flat-square&color=blueviolet" />
+<br/>
+
+<a href="https://github.com/cxndizz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxndizz&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=cxndizz&theme=radical&column=7&no-frame=true"/>
+</a>
+
+<br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=cxndizz&style=flat-square&color=blueviolet" alt="Profile Views"/>
+
+</div>
 
 </div>
