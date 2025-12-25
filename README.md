@@ -65,28 +65,6 @@
 
 <br>
 
-## 📊 Github Stats
-
-<div align="center">
-
-<a href="https://github.com/cxndizz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cxndizz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cxndizz&theme=radical&hide_border=true"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/cxndizz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxndizz&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=cxndizz&theme=radical&column=7&no-frame=true"/>
-</a>
-
-<br/>
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=cxndizz&style=flat-square&color=blueviolet" alt="Profile Views"/>
