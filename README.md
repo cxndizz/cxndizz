@@ -2,7 +2,7 @@
 
 # Cee
 
-<img src="https://i.postimg.cc/VsqRsBV1/4.jpg" width="180" alt="Cee profile photo" style="border-radius: 50%;" />
+<img src="https://i.postimg.cc/kG2qsXZS/11zon-cropped.png" width="180" alt="Cee profile photo" style="border-radius: 50%;" />
 
 ### Full Stack Developer focused on modern web apps, backend systems, and practical product engineering
 
