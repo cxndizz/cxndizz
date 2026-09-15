@@ -2,7 +2,7 @@
 
 # Cee
 
-<img src="https://s.imgz.io/2026/03/21/XieChuLing--New-photo-16_09_2024-modifiedb457b564764e1739.png" width="180" alt="Cee profile photo" />
+<img src="https://i.postimg.cc/VsqRsBV1/4.jpg" width="180" alt="Cee profile photo" />
 
 ### Full Stack Developer focused on modern web apps, backend systems, and practical product engineering
 
